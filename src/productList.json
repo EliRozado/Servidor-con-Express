@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Peluche de Kirby durmiendoa",
+    "description": "Peluche de 20 cm de Kirby",
+    "price": 2500,
+    "thumbnail": "Sin imagen",
+    "code": "1257",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Cuaderno de Pokemon",
+    "description": "Cuaderno tamaño A4 de hojas rayadas con 72 hojas",
+    "price": 700,
+    "thumbnail": "Sin imagen",
+    "code": "2513",
+    "stock": 25,
+    "id": 2
+  },
+  {
+    "title": "Galletitas Criollitas",
+    "description": "Galletitas saladas, paquete de tres",
+    "price": 450,
+    "thumbnail": "Sin imagen",
+    "code": "9563",
+    "stock": 10,
+    "id": 3
+  },
+  {
+    "title": "producto prueba 4",
+    "description": "Este es un producto prueba",
+    "price": 2500,
+    "thumbnail": "Sin imagen",
+    "code": "2598",
+    "stock": 12,
+    "id": 4
+  },{
+    "title": "Gatorade",
+    "description": "Este es un producto prueba",
+    "price": 450,
+    "thumbnail": "Sin imagen",
+    "code": "4856",
+    "stock": 30,
+    "id": 5
+  },
+  {
+    "title": "producto prueba 6",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "5239",
+    "stock": 25,
+    "id": 6
+  },
+  {
+    "title": "Seven UP",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "6889",
+    "stock": 12,
+    "id": 7
+  },
+  {
+    "title": "Pelota de futbol",
+    "description": "Este es un producto prueba",
+    "price": 6050,
+    "thumbnail": "Sin imagen",
+    "code": "0024",
+    "stock": 10,
+    "id": 8
+  },
+  {
+    "title": "Limpiavidrios",
+    "description": "Este es un producto prueba",
+    "price": 250,
+    "thumbnail": "Sin imagen",
+    "code": "5426",
+    "stock": 30,
+    "id": 9
+  },
+  {
+    "title": "Producto 10",
+    "description": "Este es un producto prueba",
+    "price": 360,
+    "thumbnail": "Sin imagen",
+    "code": "3698",
+    "stock": 25,
+    "id": 10
+  }
+]
